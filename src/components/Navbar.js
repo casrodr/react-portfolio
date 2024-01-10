@@ -17,12 +17,6 @@ const links = [
         active: 'portfolio'
     },
     {
-        name: info.initials,
-        type: 'initials',
-        to: '/',
-        active: 'home'
-    },
-    {
         name: 'About Me',
         to: '/about',
         active: 'about'
@@ -47,6 +41,9 @@ export default function Navbar({darkMode, handleClick}) {
                         </Link>
                     </Box>
                 ))}
+                <li>
+                    <a href="">résumé</a>
+                </li>
                 <li>
                     <Toggler darkMode={darkMode} handleClick={handleClick}/>
                 </li>
