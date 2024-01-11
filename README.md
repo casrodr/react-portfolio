@@ -2,7 +2,9 @@
 
 ## My personal Portfolio
 
-[View Live Template]()
+[View Live Template](https://casrodr.github.io/react-portfolio/)
+![portweb](https://github.com/casrodr/react-portfolio/assets/102768038/3ed44d3d-7206-47e3-b9c3-6139402d1ad3)
+
 
 ## features
 
