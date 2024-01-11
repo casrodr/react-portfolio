@@ -54,57 +54,54 @@ export const info = {
     bio: "Hello! I'm Casimiro! A UC Davis student studying computer science and math!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma',  'python',  'excel', 'nodejs', 'adobe illustrator']
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'Gaming',
+            emoji: '👾'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'Weightlifting',
+            emoji: '🏋️'
         },
         {
-            label: 'movies',
+            label: 'Coding',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'Sports',
+            emoji: '🏅'
         }
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Fall King Game",
+            live: "https://cyberexplosion.itch.io/fall-king", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/CyberExplosion/Fall-King", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "CryptoPulse",
+            live: "https://cryptopulse-casrodr.netlify.app/",
+            source: "https://github.com/casrodr/CryptoPulse",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Facial Emotion Recognition",
+            source: "https://github.com/casrodr/Emotion-detection",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Dijkstra Algorithm Visualization",
+            live: "https://casrodr-dijkstra.netlify.app/",
+            source: "https://github.com/casrodr/Dijkstra-s-Algorithm-Visualization-React",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Weather App",
+            source: "https://github.com/casrodr/Weatherapp-Flutter",
             image: mock5
         }
     ]
