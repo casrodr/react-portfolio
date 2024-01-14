@@ -2,13 +2,15 @@
 
 ## My personal Portfolio
 
-[View Live Template]()
+[View Live Site](https://casrodr.github.io/react-portfolio/)
+![portweb](https://github.com/casrodr/react-portfolio/assets/102768038/3ed44d3d-7206-47e3-b9c3-6139402d1ad3)
+
 
 ## features
 
 🌑 Dark Mode Toggler
 
-📖 Multiple Pages (React Router)
+📖 Multiple Pages (hashrouter from react-router-dom)
 
 📱 Fully Responsive
 
