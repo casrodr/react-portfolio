@@ -19,7 +19,7 @@ export const info = {
     position: "a Full Stack Developer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
-    baseColor: colors[0],
+    baseColor: "rgb(0, 153, 255)",
     miniBio: [ 
         {
             emoji: '💻',
